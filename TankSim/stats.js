@@ -8086,7 +8086,7 @@ let enchants = {
        "defense": 0,
        "armor": 0,
        "parry": 0
-    }
+    },
     "Zandalar Signet of Tenacity": {
        "strength": 0,
        "stamina": 14,
