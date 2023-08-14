@@ -586,7 +586,7 @@ let heads = {
 
     armor: 658,
     parry: 0,
-    dodge: 0,
+    dodge: 1,
     defense: 0,
     block: 0,
     blockvalue: 0,
