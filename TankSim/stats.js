@@ -575,6 +575,25 @@ let heads = {
     skill: 0,
     skilltype: 'none'
 },
+    "Bloody Gladiator's Helm": {
+    strength: 15,
+    stamina: 24,
+    agility: 0,
+
+    hit: 1,
+    crit: 1,
+    attackpower: 30,
+
+    armor: 658,
+    parry: 0,
+    dodge: 0,
+    defense: 0,
+    block: 0,
+    blockvalue: 0,
+
+    skill: 0,
+    skilltype: 'none'
+},
 }
 
 let necks = {
@@ -1405,7 +1424,23 @@ let chests = {
        "skilltype": 0,
        "blockvalue": 0,
        "block": 0
-    }
+    },
+    "Bloody Gladiator's Breastplate": {
+       "crit": 1,
+       "hit": 0,
+       "strength": 14,
+       "stamina": 24,
+       "agility": 0,
+       "attackpower": 28,
+       "dodge": 2,
+       "parry": 0,
+       "defense": 0,
+       "armor": 799,
+       "skill": 0,
+       "skilltype": 0,
+       "blockvalue": 0,
+       "block": 0
+    },
  }
 
 let shoulders = {
@@ -8045,6 +8080,20 @@ let enchants = {
        "crit": 0,
        "hit": 0,
        "attackpower": 30,
+       "dodge": 0,
+       "block": 0,
+       "blockvalue": 0,
+       "defense": 0,
+       "armor": 0,
+       "parry": 0
+    }
+    "Zandalar Signet of Tenacity": {
+       "strength": 0,
+       "stamina": 14,
+       "agility": 0,
+       "crit": 0,
+       "hit": 0,
+       "attackpower": 0,
        "dodge": 0,
        "block": 0,
        "blockvalue": 0,
